@@ -134,4 +134,16 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | ------- | ------- |
 | [1068-product-sales-analysis-i](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1683-invalid-tweets/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 <!---LeetCode Topics End-->
