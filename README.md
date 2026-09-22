@@ -126,3 +126,11 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 ---
 
 ### Happy Coding! 💻🔥
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1683-invalid-tweets](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1683-invalid-tweets/) | Easy |
+<!---LeetCode Topics End-->
