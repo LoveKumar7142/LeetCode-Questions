@@ -133,6 +133,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0197-rising-temperature](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0197-rising-temperature/) | Easy |
+| [0577-employee-bonus](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0577-employee-bonus/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
