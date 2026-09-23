@@ -133,6 +133,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0197-rising-temperature](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0197-rising-temperature/) | Easy |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0577-employee-bonus/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1280-students-and-examinations](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1280-students-and-examinations/) | Easy |
