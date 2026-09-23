@@ -140,6 +140,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1683-invalid-tweets/) | Easy |
+| [1934-confirmation-rate](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1934-confirmation-rate/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
