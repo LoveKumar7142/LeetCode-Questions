@@ -5,7 +5,6 @@ public:
             int sum = 0;
             int num = nums[i];
             while(num != 0){
-                cout<<num << ", "<< "Sum : "<< sum<<";";
                 sum = sum + num %10;
                 num /= 10;
             }
