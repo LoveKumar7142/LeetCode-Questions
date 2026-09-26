@@ -145,6 +145,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Math
@@ -161,6 +162,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | ------- | ------- |
 | [1096-brace-expansion-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +179,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1096-brace-expansion-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
