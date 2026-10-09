@@ -193,6 +193,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | [1096-brace-expansion-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 ## Backtracking
@@ -212,6 +213,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | [1096-brace-expansion-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -233,6 +235,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | [1021-remove-outermost-parentheses](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Dynamic Programming
@@ -251,4 +254,5 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 <!---LeetCode Topics End-->
