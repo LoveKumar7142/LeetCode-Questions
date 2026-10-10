@@ -151,6 +151,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Math
@@ -172,6 +173,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +226,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1096-brace-expansion-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1096-brace-expansion-ii/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,4 +258,9 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | [0678-valid-parenthesis-string](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 <!---LeetCode Topics End-->
