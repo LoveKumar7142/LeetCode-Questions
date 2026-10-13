@@ -8,13 +8,11 @@ public:
         }
         int len = nums.size()/2;
 
-        if(len > 0){
+        if(len > 0)
             nth_element(nums.begin(),nums.begin()+len,nums.end());
-        }
 
-        for(int i =0;i<len;i++){
+        for(int i =0;i<len;i++)
             sum -= (2LL*nums[i]*nums[i]);
-        }
         return sum;
     }
 };
