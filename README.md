@@ -155,6 +155,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | [2778-sum-of-squares-of-special-elements](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -168,6 +169,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -177,6 +179,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,4 +290,5 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 <!---LeetCode Topics End-->
