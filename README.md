@@ -148,6 +148,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -163,6 +164,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -262,6 +264,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | [0022-generate-parentheses](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -294,4 +297,36 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
