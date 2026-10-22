@@ -163,6 +163,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
