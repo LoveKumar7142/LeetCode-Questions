@@ -208,6 +208,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
@@ -232,6 +233,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0856-score-of-parentheses/) | Medium |
@@ -260,6 +262,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
