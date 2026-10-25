@@ -148,6 +148,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -246,6 +247,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -280,6 +282,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -321,6 +324,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -342,4 +346,8 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1254-number-of-closed-islands/) | Medium |
 <!---LeetCode Topics End-->
