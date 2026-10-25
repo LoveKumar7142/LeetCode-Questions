@@ -166,6 +166,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3904-smallest-stable-index-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -207,6 +208,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [3904-smallest-stable-index-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
