@@ -149,6 +149,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -177,6 +178,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3525-find-x-value-of-array-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -267,6 +269,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
