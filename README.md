@@ -158,6 +158,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | [2089-find-target-indices-after-sorting-array](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -203,6 +204,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | [1096-brace-expansion-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
@@ -220,6 +222,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -282,6 +285,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
