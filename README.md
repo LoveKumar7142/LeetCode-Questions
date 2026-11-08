@@ -151,6 +151,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -277,6 +278,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | [0301-remove-invalid-parentheses](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -322,6 +324,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3665-twisted-mirror-path-count/) | Medium |
@@ -375,6 +378,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Search Tree
@@ -401,6 +405,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Graph Theory
@@ -415,4 +420,8 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 <!---LeetCode Topics End-->
