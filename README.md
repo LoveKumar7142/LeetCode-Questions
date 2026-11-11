@@ -194,6 +194,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -342,6 +343,7 @@ GitHub: [@LoveKumar7142](https://github.com/LoveKumar7142)
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/LoveKumar7142/LeetCode-Questions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
